@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="tieto" fetch="git://github.com/tieto/" />
+
+  <project path="vendor/tieto/modules/vehicle"
+           name="android-tieto-vehicle-hal" remote="tieto" revision="master"/>
+</manifest>

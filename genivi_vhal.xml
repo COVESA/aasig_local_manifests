@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="GENIVI" fetch="git://github.com/GENIVI" />
+
+  <project path="vendor/genivi/modules/vss-authentication-service"
+           name="android-vss-authentication-service" remote="GENIVI" revision="master"/>
+  <project path="vendor/genivi/packages/vehicleplugin-vss-graphql"
+           name="android-vehicleplugin-vss-graphql" remote="GENIVI" revision="master"/>
+
+<!--  <project path="vendor/genivi/external/apollo-android"
+           name="kelari/platform/vendor/tieto/external/apollo-android" remote="GENIVI" revision="master"/> -->
+
+</manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="GENIVI" fetch="git://github.com/GENIVI" />
+
+  <project path="device/genivi"
+           name="aasig_dev_configuration" remote="GENIVI" revision="master"/>
+</manifest>
